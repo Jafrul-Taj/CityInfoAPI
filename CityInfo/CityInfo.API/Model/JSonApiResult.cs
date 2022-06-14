@@ -14,5 +14,4 @@ namespace CityInfo.API.Model
         public bool completed { get; set; }
     }
 
-
 }
